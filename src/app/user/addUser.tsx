@@ -224,4 +224,4 @@ export const UserForm: React.FC<Partial<UserFormProps>> = ({
       </form>
     </Paper>
   );
-};
+}
